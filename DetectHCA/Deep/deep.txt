@@ -1,1 +1,7 @@
+https://www.kaggle.com/code/michaelscheinfeilda/vgg-16-fc/edit
+https://github.com/Jonas1312/ChallengeHC18
+https://www.kaggle.com/code/buffyhridoy/vgg-16-fc/notebook
+https://github.com/pranjalrai-iitd/Fetal-head-segmentation-and-circumference-measurement-from-ultrasound-images
+https://hc18.grand-challenge.org/
+https://zenodo.org/records/1327317
 
